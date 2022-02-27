@@ -1,4 +1,4 @@
-# YorozuyaApp<br>
+# よろずや<br>
 
 SwiftとFirebaseで作成したiOSネイティブアプリβ版<br>
 ビジネス用のマッチングアプリβ版<br>
