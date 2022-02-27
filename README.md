@@ -3,8 +3,10 @@
 SwiftとFirebaseで作成したiOSネイティブアプリβ版<br>
 ビジネス用のマッチングアプリβ版<br>
 
+
 # AppStore「よろずや」アプリ公開URL<br>
 https://apps.apple.com/jp/app/%E3%82%88%E3%82%8D%E3%81%9A%E3%82%84/id1602795596<br>
+
 
 # デモ動画<br>
 https://youtu.be/BbavAVR8zIk<br>
