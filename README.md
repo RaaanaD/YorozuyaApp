@@ -16,4 +16,4 @@ https://apps.apple.com/jp/app/%E3%82%88%E3%82%8D%E3%81%9A%E3%82%84/id1602795596<
 https://youtu.be/BbavAVR8zIk<br>
 上記YouTube動画はiPhone実機より撮影した。
 
-<img width="1000px" alt="スクリーンショット 2022-03-01 18 03 26" src="https://user-images.githubusercontent.com/83898574/156144022-0c66ae45-314c-4e17-9c0d-93002b221eef.png"><br>
+<img width="800px" alt="スクリーンショット 2022-03-01 18 03 26" src="https://user-images.githubusercontent.com/83898574/156144022-0c66ae45-314c-4e17-9c0d-93002b221eef.png"><br>
