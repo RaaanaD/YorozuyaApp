@@ -8,7 +8,7 @@ SwiftとFirebaseで作成したiOSネイティブアプリβ版です。<br>
 ②依頼したい方：誰に相談すれば良いか分からない悩みがある方<br>
 
 # MVC設計<br>
-分かり易いように、Model、View、Controllerのフォルダ毎にファイルを分けて作成しました。<br>
+可能な限り分かり易いように、Model、View、Controllerのフォルダ毎にファイルを分けて作成しました。<br>
 
 # AppStore「よろずや」アプリ公開URL<br>
 https://apps.apple.com/jp/app/%E3%82%88%E3%82%8D%E3%81%9A%E3%82%84/id1602795596<br>
